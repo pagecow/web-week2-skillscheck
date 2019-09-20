@@ -43,11 +43,10 @@ header {
 .bottom-body-section {
     display: flex;
     background-color: white;
-    height: 49vh;
+    height: 21vh;
     width: 100%;
     justify-content: center;
     flex-wrap: wrap;
-
 }
 
 .green-box {
@@ -61,6 +60,15 @@ header {
     margin-top: 25px;
 }
 
+.bottom-bottom-body-section {
+    display: flex;
+    background-color: white;
+    height: 21vh;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 .orange-box {
     height: 130px;
     width: 270px;
@@ -69,6 +77,15 @@ header {
     margin-right: 15px;
     margin-top: 25px;
     margin-bottom: 25px;
+}
+
+.bot-bot-body-section {
+    display: flex;
+    background-color: white;
+    height: 21vh;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .paragraph {
